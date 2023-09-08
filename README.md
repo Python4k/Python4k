@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Python4k
-- 👀 I’m interested in data science, AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on tesla
+- 👀 I’m interested in web and microcontrollers
+- 🌱 I’m currently learning C++ and Go
