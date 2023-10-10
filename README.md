@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Python4k
-- 👀 I’m interested in web and microcontrollers
-- 🌱 I’m currently learning C++ and Go
+- 👀 I’m interested in web
+- 🌱 I’m currently learning Python, C++ and SQL
