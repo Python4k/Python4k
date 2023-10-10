@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Python4k
 - 👀 I’m interested in web
 - 🌱 I’m currently learning Python, C++ and SQL
+- 🌱 My stack: Django, Django Rest Framework, SQLite, Git, Docker
