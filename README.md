@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt=""/>
+    <br>
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt=""/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="">
     <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff" alt="">
