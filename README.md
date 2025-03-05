@@ -2,7 +2,7 @@
 
 <h2 align="center"> About Me</h2>
 
-
+<p align="center" style="font-size: large; font-family: 'Roboto Light',serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum non justo a vulputate. Duis pretium sem eget pellentesque lobortis. Aliquam congue eros dui, quis scelerisque elit dictum et. Proin vehicula hendrerit ultrices. Ut aliquet, urna nec fermentum porta, dolor sapien dapibus erat, elementum bibendum massa dolor sit amet leo. Sed mollis non quam non dignissim. Quisque sed purus a metus ullamcorper placerat.</p>
 
 <div align = "center">
     <h2> 💻 Tech Stack</h2>
@@ -27,7 +27,22 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt=""/>
 </div>
 
-
-
-
 <h2 align= "center"> 🔥 GitHub Stats</h2>
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=python4k&show_icons=true&theme=tokyonight" alt=""/>
+        </td>
+        <td>
+            <img src="https://streak-stats.demolab.com/?user=python4k&theme=tokyonight" alt=""/>
+        </td>
+    </tr>
+</table>
+<table>
+  <tr>
+        <td>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=python4k&theme=tokyo-night" alt=""/>
+        </td>
+    </tr>
+</table>
