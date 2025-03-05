@@ -2,7 +2,7 @@
 
 <h2 align="center"> About Me</h2>
 
-<p align="center" style="font-size: large; font-family: 'Roboto Light',serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum non justo a vulputate. Duis pretium sem eget pellentesque lobortis. Aliquam congue eros dui, quis scelerisque elit dictum et. Proin vehicula hendrerit ultrices. Ut aliquet, urna nec fermentum porta, dolor sapien dapibus erat, elementum bibendum massa dolor sit amet leo. Sed mollis non quam non dignissim. Quisque sed purus a metus ullamcorper placerat.</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum non justo a vulputate. Duis pretium sem eget pellentesque lobortis. Aliquam congue eros dui, quis scelerisque elit dictum et. Proin vehicula hendrerit ultrices. Ut aliquet, urna nec fermentum porta, dolor sapien dapibus erat, elementum bibendum massa dolor sit amet leo. Sed mollis non quam non dignissim. Quisque sed purus a metus ullamcorper placerat.
 
 <div align = "center">
     <h2> 💻 Tech Stack</h2>
