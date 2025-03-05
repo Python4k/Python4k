@@ -1,11 +1,15 @@
-<h1 align="center"> Hello world! I'm Leonid</h1>
-
 <h2 align="center"> About Me</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum non justo a vulputate. Duis pretium sem eget pellentesque lobortis. Aliquam congue eros dui, quis scelerisque elit dictum et. Proin vehicula hendrerit ultrices. Ut aliquet, urna nec fermentum porta, dolor sapien dapibus erat, elementum bibendum massa dolor sit amet leo. Sed mollis non quam non dignissim. Quisque sed purus a metus ullamcorper placerat.
+I'm software engineer with 2+ years non-commerce experience.
+I specialize in Backend development, but I'm also interested in developing software for microcontrollers.
+
+Developer and founder of the SOM project (information about it will be available soon)
+
+Random fact about me: I love rice :)
+
 
 <div align = "center">
-    <h2> 💻 Tech Stack</h2>
+    <h2> 💻 Stack</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="">
@@ -46,3 +50,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum non 
         </td>
     </tr>
 </table>
+
+
+<h2 align= "center"> 🤝 Contact with Me</h2>
+
+💬 [Telegram](https://t.me/python4k)
+
+📬 [Email](mailto:leonid.r.dev@gmail.com)
+
