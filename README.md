@@ -3,8 +3,6 @@
 I'm software engineer with 2+ years non-commerce experience.
 I specialize in Backend development, but I'm also interested in developing software for microcontrollers.
 
-Developer and founder of the SOM project (information about it will be available soon)
-
 Random fact about me: I love rice :)
 
 
